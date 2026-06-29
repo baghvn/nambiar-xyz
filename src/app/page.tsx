@@ -13,7 +13,7 @@ export default function Home() {
           <p className="text-xs tracking-widest uppercase text-[#888] mb-5">
             Street & Travel Photography
           </p>
-          <h1 className="text-2xl sm:text-4xl lg:text-6xl font-light leading-snug mb-6 text-[#111]">
+          <h1 className="text-[1.6rem] sm:text-4xl lg:text-6xl font-light leading-snug mb-6 text-[#111]">
             Capturing the rhythm of the world.
           </h1>
           <p className="text-sm sm:text-base text-[#555] leading-relaxed max-w-xl">
@@ -70,7 +70,7 @@ export default function Home() {
             All Work →
           </Link>
         </div>
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 sm:gap-8">
+        <div className="grid grid-cols-1 min-[480px]:grid-cols-2 gap-6 sm:gap-8">
           {collections.map((col) => (
             <Link
               key={col.slug}
