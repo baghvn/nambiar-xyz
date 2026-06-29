@@ -4,8 +4,8 @@ export const metadata = {
 
 export default function ContactPage() {
   return (
-    <div className="pt-14">
-      <section className="max-w-6xl mx-auto px-6 py-24">
+    <div>
+      <section className="max-w-6xl mx-auto px-6 pt-28 pb-24 sm:pt-36">
         <div className="max-w-xl">
           <p className="text-xs tracking-widest uppercase text-[#888] mb-6">
             Contact

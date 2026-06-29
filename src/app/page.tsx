@@ -6,14 +6,14 @@ export default function Home() {
   const featured = collections[0];
 
   return (
-    <div className="pt-14">
+    <div>
       {/* Hero */}
-      <section className="max-w-6xl mx-auto px-6 py-16 sm:py-24 lg:py-36">
+      <section className="max-w-6xl mx-auto px-6 pt-28 pb-16 sm:pt-36 sm:pb-24 lg:pt-48 lg:pb-36">
         <div className="max-w-2xl">
           <p className="text-xs tracking-widest uppercase text-[#888] mb-5">
             Street & Travel Photography
           </p>
-          <h1 className="text-3xl sm:text-5xl lg:text-6xl font-light leading-tight mb-6 text-[#111]">
+          <h1 className="text-2xl sm:text-4xl lg:text-6xl font-light leading-tight mb-6 text-[#111]">
             Capturing the rhythm
             <br />
             of the world.
