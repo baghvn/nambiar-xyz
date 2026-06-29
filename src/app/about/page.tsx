@@ -5,7 +5,7 @@ export const metadata = {
 export default function AboutPage() {
   return (
     <div>
-      <section className="max-w-6xl mx-auto px-6 pt-28 pb-16 sm:pt-36 sm:pb-24">
+      <section className="max-w-6xl mx-auto px-6 pt-36 pb-16 sm:pt-44 sm:pb-24">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-start">
           <div>
             <p className="text-xs tracking-widest uppercase text-[#888] mb-6">

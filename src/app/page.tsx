@@ -8,15 +8,13 @@ export default function Home() {
   return (
     <div>
       {/* Hero */}
-      <section className="max-w-6xl mx-auto px-6 pt-28 pb-16 sm:pt-36 sm:pb-24 lg:pt-48 lg:pb-36">
+      <section className="max-w-6xl mx-auto px-6 pt-36 pb-16 sm:pt-44 sm:pb-24 lg:pt-56 lg:pb-36">
         <div className="max-w-2xl">
           <p className="text-xs tracking-widest uppercase text-[#888] mb-5">
             Street & Travel Photography
           </p>
-          <h1 className="text-2xl sm:text-4xl lg:text-6xl font-light leading-tight mb-6 text-[#111]">
-            Capturing the rhythm
-            <br />
-            of the world.
+          <h1 className="text-2xl sm:text-4xl lg:text-6xl font-light leading-snug mb-6 text-[#111]">
+            Capturing the rhythm of the world.
           </h1>
           <p className="text-sm sm:text-base text-[#555] leading-relaxed max-w-xl">
             One street, one frame, one fleeting moment at a time. Wandering
