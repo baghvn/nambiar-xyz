@@ -15,7 +15,7 @@ export default function Nav() {
 
   return (
     <>
-      <header className="fixed top-0 left-0 right-0 z-50 bg-[#fafafa]/90 backdrop-blur-sm border-b border-[#e5e5e5]">
+      <header className="sticky top-0 z-50 bg-[#fafafa]/90 backdrop-blur-sm border-b border-[#e5e5e5]">
         <nav className="max-w-6xl mx-auto px-6 h-14 flex items-center justify-between">
           <Link
             href="/"

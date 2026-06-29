@@ -32,7 +32,7 @@ export default async function CollectionPage({
 
   return (
     <div>
-      <section className="max-w-6xl mx-auto px-6 pt-28 pb-12 sm:pt-36 sm:pb-20">
+      <section className="max-w-6xl mx-auto px-6 py-12 sm:py-20">
         <Link
           href="/work"
           className="text-xs tracking-widest uppercase text-[#888] hover:text-[#111] transition-colors mb-8 inline-block"

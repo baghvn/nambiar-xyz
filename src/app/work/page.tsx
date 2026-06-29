@@ -10,7 +10,7 @@ export const metadata = {
 export default function WorkPage() {
   return (
     <div>
-      <section className="max-w-6xl mx-auto px-6 pt-36 pb-16 sm:pt-44 sm:pb-24">
+      <section className="max-w-6xl mx-auto px-6 py-16 sm:py-24">
         <div className="mb-12 sm:mb-16">
           <p className="text-xs tracking-widest uppercase text-[#888] mb-4">
             Portfolio

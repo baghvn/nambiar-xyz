@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <div>
       {/* Hero */}
-      <section className="max-w-6xl mx-auto px-6 pt-36 pb-16 sm:pt-44 sm:pb-24 lg:pt-56 lg:pb-36">
+      <section className="max-w-6xl mx-auto px-6 py-16 sm:py-24 lg:py-36">
         <div className="max-w-2xl">
           <p className="text-xs tracking-widest uppercase text-[#888] mb-5">
             Street & Travel Photography
