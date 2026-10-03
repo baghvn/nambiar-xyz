@@ -14,7 +14,7 @@ export default function ContactPage() {
             Get in touch
           </h1>
           <p className="text-base text-[#555] leading-relaxed mb-12">
-            For collaborations, licensing, or just to say hello — I'd love to
+            For collaborations, licensing, or just to say hello — I&apos;d love to
             hear from you.
           </p>
 
