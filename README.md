@@ -2,7 +2,15 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
+This project requires **Node.js 24** (pinned in `.nvmrc` and `engines`). With nvm:
+
+```bash
+nvm install   # first time only; reads .nvmrc
+nvm use
+npm ci
+```
+
+Then run the development server:
 
 ```bash
 npm run dev
